@@ -4,7 +4,7 @@ Since January 2024, my focus has been on elevating the standard of full-stack de
 
 In this rapidly evolving industry, my commitment is anchored in continuous learning and adaptation, ensuring that our web solutions remain innovative and high-performing. It's this drive to push technological boundaries that defines our success and fuels our collaborative spirit.
 
-![haiderzamanusafxay's Stats](https://github-readme-stats.vercel.app/api?username=haiderzamanusafxay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![haiderzamanusafxay's Stats](https://github-readme-stats.vercel.app/api?username=haidercodefreaks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
