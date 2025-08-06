@@ -20,6 +20,8 @@ In this rapidly evolving industry, my commitment is anchored in continuous learn
  ## 🏆 Achievements
 
 - 🌟 Otained certification: Legacy JavaScript Algorithms and Data Structures from freeCodeCamp!
+- 🌟 Otained certification: Software Engineer from HackerRank.
+
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
